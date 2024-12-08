@@ -1,0 +1,10 @@
++-----------------------------------+
+|           DaftarNilaiMahasiswa    |
++-----------------------------------+
+| - data_mahasiswa: dict            |
++-----------------------------------+
+| + tambah(): void                  |
+| + tampilkan(): void               |
+| + hapus(nama: str): void          |
+| + ubah(nama: str): void           |
++-----------------------------------+
